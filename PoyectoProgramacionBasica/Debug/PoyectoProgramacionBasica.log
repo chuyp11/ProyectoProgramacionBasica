@@ -1,4 +1,5 @@
 ﻿  Inicio.cpp
 c:\users\jesus\programacion\proyectos\poyectoprogramacionbasica\poyectoprogramacionbasica\inicio.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-c:\users\jesus\programacion\proyectos\poyectoprogramacionbasica\poyectoprogramacionbasica\inicio.cpp(4): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\jesus\programacion\proyectos\poyectoprogramacionbasica\poyectoprogramacionbasica\inicio.cpp(11): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\jesus\programacion\proyectos\poyectoprogramacionbasica\poyectoprogramacionbasica\inicio.cpp(126): warning C4129: 'j': unrecognized character escape sequence
   PoyectoProgramacionBasica.vcxproj -> C:\Users\Jesus\Programacion\Proyectos\PoyectoProgramacionBasica\Debug\PoyectoProgramacionBasica.exe
